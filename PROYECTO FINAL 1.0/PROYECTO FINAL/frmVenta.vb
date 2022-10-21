@@ -54,23 +54,23 @@
 
     End Sub
 
-    Private Sub BtnAcceptar_Click(sender As Object, e As EventArgs) Handles BtnAgregar.Click
+    Private Sub BtnAgregar_Click(sender As Object, e As EventArgs) Handles BtnAgregar.Click
 
 
 
 
-        'Limpiar cada txt text despues de cada venta
+        'iniciar cada textbox con valor 0
         TxtSubtotal.Text = 0
         TxtIva.Text = 0
         TxtTotal.Text = 0
 
 
-        'Limpiar los txt en caso de una venta previa 
+        'iniciar los textbox con valor 0
         TxtEfectivo.Text = 0
         TxtDvolucion.Text = 0
 
 
-        Dim cant As Integer
+        Dim cant As Integer ' declaracion de variable cantidad 
 
         cant = Me.TxtCantidad.Text 'Guardar el valor ingresado el txt text en el variable cant 
 
@@ -82,7 +82,7 @@
             MsgBox("Seleccione un articulo")
 
 
-        Else
+        Else ' si ninguno de las condiciones anteriores se cumplen entonces se agrega los productos en la datagridview  
 
 
             Dgvlista.Rows.Add(TxtCodigo.Text, CmbProducto.Text, TxtPrecio.Text, TxtCantidad.Text, (TxtPrecio.Text * TxtCantidad.Text)) 'Agregar producto con su codigo unico, descripcion, precio, cantidad en el datagridview 
@@ -98,7 +98,7 @@
         TxtPrecio.Text = ""
         TxtCantidad.Text = "1"
 
-        Me.CmbProducto.Focus()
+        Me.CmbProducto.Focus() ' poner el focus en el combobox producto 
 
 
 
@@ -107,21 +107,22 @@
 
     Private Sub BtnTotales_Click(sender As Object, e As EventArgs) Handles BtnTotales.Click
 
-        'Bucle para agregar cada producto en la lista de datagridview y hacer la suma
+        'Bucle para hacer la suma
 
-        Dim total As Double = 0 'variable total
+        Dim total As Double = 0 'decclaracion de la variable total
 
         For i = 0 To Dgvlista.Rows.Count - 1 Step 1 'de uno a uno 
 
             total += Dgvlista.Rows.Item(i).Cells.Item(4).Value 'Sumar valor del campo precio anterior mas el siguiente 
 
         Next
+        'Calculo de  iva
+        Dim iva As Double = total * 0.21
 
-        Dim iva As Double = total * 0.21 'Calcular iva
+        'Calculo de la subtotal
+        Dim subtotal As Double = total - iva
 
-        Dim subtotal As Double = total - iva 'Calcular subtotal 
-
-        'Monstrar cada resultado en su corespondiente txt
+        'Monstrar cada resultado en su corespondiente textbox 
         TxtSubtotal.Text = subtotal.ToString
         TxtIva.Text = iva.ToString
         TxtTotal.Text = total.ToString
@@ -131,7 +132,7 @@
 
 
 
-        'Condicion en caso el txt text efectivo esta vacio o igual a 0
+        'Condicion en caso el textbox efectivo esta vacio o igual a 0 el textbox efectivo toma el valor del textbox total, es decir paga justo el cliente 
 
 
         If TxtEfectivo.Text = 0 Or TxtEfectivo.Text = "" Then
@@ -140,7 +141,7 @@
 
 
 
-        Else
+        Else 'en cualquier otro caso el textbox efectivo es igual 0
 
             Me.TxtEfectivo.Text = 0
 
@@ -152,7 +153,7 @@
         Dim efectivo As Double = Me.TxtEfectivo.Text
 
 
-        If total > efectivo Then
+        If total > efectivo Then ' en caso que el monto de efectivo ingresado es inferior al total, es decir la venta ya esta realizada, se limpia cada textbox 
 
 
 
@@ -174,9 +175,10 @@
 
         End If
 
-        If Val(Me.TxtIva.Text) >= 210 Then
+        If Val(Me.TxtIva.Text) >= 210 Then ' condicion para abrir el formulario registro al superar 1000 pesos la venta 
             frmRegistro.ShowDialog()
 
+            'se limpia los textbox
             Me.TxtIva.Text = ""
             Me.TxtSubtotal.Text = ""
 
@@ -198,6 +200,7 @@
 
     Private Sub BtnEliminar_Click(sender As Object, e As EventArgs) Handles BtnEliminar.Click
 
+        'funcion para eliminar cada fila de datagridview seleccionada 
         For Each r As DataGridViewRow In Dgvlista.SelectedRows
             Dgvlista.Rows.Remove(r)
 
@@ -212,6 +215,7 @@
 
     Private Sub BtnSalir_Click(sender As Object, e As EventArgs) Handles BtnSalir.Click
 
+        ' boton para cerrar el sistema 
         End
 
     End Sub
