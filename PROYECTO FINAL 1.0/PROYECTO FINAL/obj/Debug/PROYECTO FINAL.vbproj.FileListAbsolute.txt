@@ -1,0 +1,42 @@
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.xml
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.AssemblyReference.cache
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Resources.resources
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.GenerateResource.cache
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.CoreCompileInputs.cache
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.xml
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FmVenta.resources
+C:\Users\jeanp\OneDrive\Escritorio\visual basic .net YT\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FmLogin.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.xml
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.AssemblyReference.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FmVenta.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FmLogin.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Resources.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.GenerateResource.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.CoreCompileInputs.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.xml
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.frmRegistro.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.AssemblyReference.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.frmRegistro.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FmVenta.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FmLogin.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Resources.resources
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.GenerateResource.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.vbproj.CoreCompileInputs.cache
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.xml
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\jeanp\OneDrive\Escritorio\PROYECTO FINAL 1.0\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.xml
